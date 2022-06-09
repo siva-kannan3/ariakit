@@ -24,6 +24,7 @@
     "select-modal-show",
     "test-hover-microtask",
     "test-mouse-down-up",
-    "test-select"
+    "test-select",
+    "utils-use-event-timing"
   ]
 }
